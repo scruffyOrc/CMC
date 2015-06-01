@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Cris\AndroidStudioProjects\CMC\app\src\main\res"><file name="ic_action_search" path="C:\Users\Cris\AndroidStudioProjects\CMC\app\src\main\res\drawable\ic_action_search.png" qualifiers="" type="drawable"/><file name="table" path="C:\Users\Cris\AndroidStudioProjects\CMC\app\src\main\res\drawable\table.xml" qualifiers="" type="drawable"/><file name="activity_marker_list" path="C:\Users\Cris\AndroidStudioProjects\CMC\app\src\main\res\layout\activity_marker_list.xml" qualifiers="" type="layout"/><file name="menu_marker_list" path="C:\Users\Cris\AndroidStudioProjects\CMC\app\src\main\res\menu\menu_marker_list.xml" qualifiers="" type="menu"/><file name="ic_launcher" path="C:\Users\Cris\AndroidStudioProjects\CMC\app\src\main\res\mipmap-hdpi\ic_launcher.png" qualifiers="hdpi" type="mipmap"/><file name="ic_launcher" path="C:\Users\Cris\AndroidStudioProjects\CMC\app\src\main\res\mipmap-mdpi\ic_launcher.png" qualifiers="mdpi" type="mipmap"/><file name="ic_launcher" path="C:\Users\Cris\AndroidStudioProjects\CMC\app\src\main\res\mipmap-xhdpi\ic_launcher.png" qualifiers="xhdpi" type="mipmap"/><file name="ic_launcher" path="C:\Users\Cris\AndroidStudioProjects\CMC\app\src\main\res\mipmap-xxhdpi\ic_launcher.png" qualifiers="xxhdpi" type="mipmap"/><file path="C:\Users\Cris\AndroidStudioProjects\CMC\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen></file><file path="C:\Users\Cris\AndroidStudioProjects\CMC\app\src\main\res\values\strings.xml" qualifiers=""><string name="button_send">Select</string><string name="action_settings">Settings</string><string name="app_name">My Copic Marker Collection</string><string name="edit_message">Copic color name</string></file><file path="C:\Users\Cris\AndroidStudioProjects\CMC\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style></file><file path="C:\Users\Cris\AndroidStudioProjects\CMC\app\src\main\res\values-v21\styles.xml" qualifiers="v21"><style name="AppTheme" parent="android:Theme.Material.Light">
+    </style></file><file path="C:\Users\Cris\AndroidStudioProjects\CMC\app\src\main\res\values-w820dp\dimens.xml" qualifiers="w820dp"><dimen name="activity_horizontal_margin">64dp</dimen></file><file path="C:\Users\Cris\AndroidStudioProjects\CMC\app\src\main\res\values\markers.xml" qualifiers=""><color name="Sketch_0">#ffffffff</color><array name="sketch_marker_list">
+        <item color="#ffffffff" name="0 - Colorless Blender" number="0" type="id"/>
+        <item color="#312b2b" name="100 - Black" number="100" type="id"/>
+        <item color="#030708" name="110 - Special Black" number="110" type="id"/>
+        <item color="#f0f9fe" name="0000 - Pale Celestine" number="B0000" type="id"/>
+        <item color="#e6f4f5" name="000 - Pale Porcelain Blue" number="B000" type="id"/>
+        <item color="#ddf0f4" name="00 - Frost Blue" number="B00" type="id"/>
+        <item color="#d6eef2" name="01 - Mint Blue" number="B01" type="id"/>
+        <item color="#b3e3f1" name="02 - Robin&apos;s Egg Blue" number="B02" type="id"/>
+        <item color="#73cfe6" name="04 - Tahitian Blue" number="B04" type="id"/>
+        <item color="#40c5e6" name="05 - Process Blue" number="B05" type="id"/>
+        <item color="#00b3e6" name="06 - Peacok Blue" number="B06" type="id"/>
+        <item color="#c8e6f0" name="12 - Ice Blue" number="B12" type="id"/>
+        <item color="#71cfeb" name="14 - Light Blue" number="B14" type="id"/>
+        <item color="#00bcea" name="16 - Cyanine Blue" number="B16" type="id"/>
+        <item color="#1d8acb" name="18 - Lapis Lazuli" number="B18" type="id"/>
+        <item color="#dbedf9" name="21 - Baby Blue" number="B21" type="id"/>
+        <item color="#92c2e8" name="23 - Phthalo Blue" number="B23" type="id"/>
+        <item color="#8acef3" name="24 - Sky" number="B24" type="id"/>
+        <item color="#65b3e3" name="26 - Cobalt Blue" number="B26" type="id"/>
+        <item color="#196db6" name="28 - Royal Blue" number="B28" type="id"/>
+        <item color="#0177c1" name="29 - Ultramarine" number="B29" type="id"/>
+        <item color="#e2eff7" name="32 - Pale Blue" number="B32" type="id"/>
+        <item color="#82c3ed" name="34 - Manganese Blue" number="B34" type="id"/>
+        <item color="#156fa4" name="37 - Antwerp Blue" number="B37" type="id"/>
+        <item color="#2b64a9" name="39 - Prussian Blue" number="B39" type="id"/>
+        <item color="#e2f0fb" name="41 - Powder Blue" number="B41" type="id"/>
+        <item color="#75c0ea" name="45 - Smoky Blue" number="B45" type="id"/>
+        <item color="#adcddc" name="52 - Soft Greenish Blue" number="B52" type="id"/>
+        <item color="#dae1f3" name="60 - Pale Blue Gray" number="B60" type="id"/>
+        <item color="#a7bbe0" name="63 - Light Hydrangea" number="B63" type="id"/>
+        <item color="#6888c5" name="66 - Clematis" number="B66" type="id"/>
+        <item color="#2165ae" name="69 - Stratospheric Blue" number="B69" type="id"/>
+        <item color="#3b479d" name="79 - Iris" number="B79" type="id"/>
+        <item color="#d5e2eb" name="91 - Pale Grayish Blue" number="B91" type="id"/>
+        <item color="#95c1da" name="93 - Light Crockery Blue" number="B93" type="id"/>
+        <item color="#74a7c6" name="95 - Light Grayish Cobalt" number="B95" type="id"/>
+        <item color="#457a9a" name="97 - Night Blue" number="B97" type="id"/>
+        <item color="#0f547e" name="99 - Agate" number="B99" type="id"/>
+        <item color="#eff8f3" name="0000 - Snow Green" number="BG0000" type="id"/>
+        <item color="#e5f4ed" name="000 - Pale Aqua" number="BG000" type="id"/>
+        <item color="#c7e6fa" name="01 - Aqua Blue" number="BG01" type="id"/>
+        <item color="#c6e8ea" name="02 - New Blue" number="BG02" type="id"/>
+        <item color="#83d2e1" name="05 - Holiday Blue" number="BG05" type="id"/>
+        <item color="#1db8ce" name="07 - Petroleum Blue" number="BG07" type="id"/>
+        <item color="#01b1c9" name="09 - Blue Green" number="BG09" type="id"/>
+        <item color="#dcf0ef" name="10 - Cool Shadow" number="BG10" type="id"/>
+        <item color="#ceebf1" name="11 - Moon White" number="BG11" type="id"/>
+        <item color="#c4e7e9" name="13 - Mint Green" number="BG13" type="id"/>
+        <item color="#a0d9d2" name="15 - Aqua" number="BG15" type="id"/>
+        <item color="#37c0b0" name="18 - Teal Blue" number="BG18" type="id"/>
+        <item color="#bde5dd" name="23 - Coral Sea" number="BG23" type="id"/>
+        <item color="#bce2d7" name="32 - Aqua Mint" number="BG32" type="id"/>
+        <item color="#a3dad7" name="34 - Horizon Green" number="BG34" type="id"/>
+        <item color="#afdfdf" name="45 - Nile Blue" number="BG45" type="id"/>
+        <item color="#00b6b9" name="49 - Duck Blue" number="BG49" type="id"/>
+        <item color="#accfd1" name="53 - Ice Mint" number="BG53" type="id"/>
+        <item color="#64bebe" name="57 - Sketch Jasper" number="BG57" type="id"/>
+        <item color="#daecee" name="70 - Ocean Mist" number="BG70" type="id"/>
+        <item color="#74b8bb" name="72 - Ice Ocean" number="BG72" type="id"/>
+        <item color="#59918e" name="75 - Abyss Green" number="BG75" type="id"/>
+        <item color="#49706b" name="78 - Bronze" number="BG78" type="id"/>
+        <item color="#e8ede7" name="90 - Sketch Gray Sky" number="BG90" type="id"/>
+        <item color="#bac1b9" name="93 - Green Gray" number="BG93" type="id"/>
+        <item color="#81a291" name="96 - Bush" number="BG96" type="id"/>
+        <item color="#6e9b87" name="99 - Flagstone Blue" number="BG99" type="id"/>
+        <item color="#eae7f2" name="0000 - Sketch Pale Thistle" number="BV0000" type="id"/>
+        <item color="#eae7f2" name="000 - Iridescent Mauve" number="BV000" type="id"/>
+        <item color="#e0dced" name="00 - Mauve Shadow" number="BV00" type="id"/>
+        <item color="#c4c9e6" name="01 - Viola" number="BV01" type="id"/>
+        <item color="#aab8db" name="02 - Prune" number="BV02" type="id"/>
+        <item color="#7c97ce" name="04 - Blue Berry" number="BV04" type="id"/>
+        <item color="#9d7eb9" name="08 - Blue Violet" number="BV08" type="id"/>
+        <item color="#d4d2e8" name="11 - Soft Violet" number="BV11" type="id"/>
+        <item color="#8491c8" name="13 - Hydrangea Blue" number="BV13" type="id"/>
+        <item color="#6e84bd" name="17 - Deep Reddish Blue" number="BV17" type="id"/>
+        <item color="#cfdbf1" name="20 - Dull Lavender" number="BV20" type="id"/>
+        <item color="#b1c0dd" name="23 - Grayish Lavender" number="BV23" type="id"/>
+        <item color="#8184a7" name="25 - Grayish Violet" number="BV25" type="id"/>
+        <item color="#384558" name="29 - Slate" number="BV29" type="id"/>
+        <item color="#eae7f2" name="31 - Pale Lavender" number="BV31" type="id"/>
+        <item color="#9fa7bc" name="34 - Sketch Bluebell" number="BV34" type="id"/>
+        <item color="#e8f0f3" name="00 - Cool Gray" number="C00" type="id"/>
+        <item color="#e0e7ed" name="0 - Cool Gray" number="C0" type="id"/>
+        <item color="#202b31" name="10 - Cool Gray" number="C10" type="id"/>
+        <item color="#dae3e8" name="1 - Cool Gray No. 1" number="C1" type="id"/>
+        <item color="#ccd7dd" name="2 - Cool Gray" number="C2" type="id"/>
+        <item color="#c1ccd2" name="3 - Cool Gray No. 3" number="C3" type="id"/>
+        <item color="#a6b4bd" name="4 - Cool Gray" number="C4" type="id"/>
+        <item color="#92a0ab" name="5 - Cool Gray No. 5" number="C5" type="id"/>
+        <item color="#7b8c96" name="6 - Cool Gray" number="C6" type="id"/>
+        <item color="#637079" name="7 - Cool Gray No. 7" number="C7" type="id"/>
+        <item color="#535d66" name="8 - Cool Gray" number="C8" type="id"/>
+        <item color="#3c474d" name="9 - Cool Gray" number="C9" type="id"/>
+        <item color="#fffaf4" name="0000 - Floral White" number="E0000" type="id"/>
+        <item color="#fef5ee" name="000 - Pale Fruit Pink" number="E000" type="id"/>
+        <item color="#fdf3ea" name="00 - Skin White" number="E00" type="id"/>
+        <item color="#ffeee4" name="01 - Pink Flamingo" number="E01" type="id"/>
+        <item color="#feece0" name="02 - Fruit Pink" number="E02" type="id"/>
+        <item color="#e4bcc4" name="04 - Lipstick Natural" number="E04" type="id"/>
+        <item color="#cc816a" name="07 - Light Mahogany" number="E07" type="id"/>
+        <item color="#ca6553" name="08 - Brown" number="E08" type="id"/>
+        <item color="#d96a4f" name="09 - Burnt Sienna" number="E09" type="id"/>
+        <item color="#fee9d6" name="11 - Barley Beige" number="E11" type="id"/>
+        <item color="#e9c5af" name="13 - Light Suntan" number="E13" type="id"/>
+        <item color="#fbbb8d" name="15 - Dark Suntan" number="E15" type="id"/>
+        <item color="#b85f57" name="17 - Reddish Brass" number="E17" type="id"/>
+        <item color="#88534d" name="18 - Copper" number="E18" type="id"/>
+        <item color="#c45238" name="19 - Redwood" number="E19" type="id"/>
+        <item color="#fde2c7" name="21 - Baby Skin Pink" number="E21" type="id"/>
+        <item color="#eccab1" name="23 - Hazelnut" number="E23" type="id"/>
+        <item color="#d2a482" name="25 - Caribe Cocoa" number="E25" type="id"/>
+        <item color="#997663" name="27 - Africano" number="E27" type="id"/>
+        <item color="#884636" name="29 - Burnt Umber" number="E29" type="id"/>
+        <item color="#f7f0d6" name="30 - Bisque" number="E30" type="id"/>
+        <item color="#f2e6ce" name="31 - Brick Beige" number="E31" type="id"/>
+        <item color="#f3d2b1" name="33 - Sand" number="E33" type="id"/>
+        <item color="#f0caa6" name="34 - Orientale" number="E34" type="id"/>
+        <item color="#e6c3a3" name="35 - Chamois" number="E35" type="id"/>
+        <item color="#cc9159" name="37 - Sepia" number="E37" type="id"/>
+        <item color="#c5743f" name="39 - Leather" number="E39" type="id"/>
+        <item color="#f2e8dc" name="40 - Brick White" number="E40" type="id"/>
+        <item color="#fef1e1" name="41 - Pearl White" number="E41" type="id"/>
+        <item color="#f3ead9" name="42 - Sand White" number="E42" type="id"/>
+        <item color="#e8dabd" name="43 - Dull Ivory" number="E43" type="id"/>
+        <item color="#c5b9a9" name="44 - Clay" number="E44" type="id"/>
+        <item color="#8a6e59" name="47 - Dark Brown" number="E47" type="id"/>
+        <item color="#634c3c" name="49 - Dark Bark" number="E49" type="id"/>
+        <item color="#f4ebf0" name="50 - Egg Shell" number="E50" type="id"/>
+        <item color="#feecd6" name="51 - Milky White" number="E51" type="id"/>
+        <item color="#f3e6c3" name="53 - Raw Silk" number="E53" type="id"/>
+        <item color="#f1dfb9" name="55 - Light Camel" number="E55" type="id"/>
+        <item color="#b18558" name="57 - Light Walnut" number="E57" type="id"/>
+        <item color="#9a7f6c" name="59 - Walnut" number="E59" type="id"/>
+        <item color="#efeae6" name="70 - Ash Rose" number="E70" type="id"/>
+        <item color="#e2d7d3" name="71 - Champagne" number="E71" type="id"/>
+        <item color="#a1847c" name="74 - Cocoa Brown" number="E74" type="id"/>
+        <item color="#7f604e" name="77 - Maroon" number="E77" type="id"/>
+        <item color="#4a2c22" name="79 - Cashew" number="E79" type="id"/>
+        <item color="#f0e6c2" name="81 - Ivory" number="E81" type="id"/>
+        <item color="#ae9f80" name="84 - - Sketch Khaki" number="E84" type="id"/>
+        <item color="#6f604d" name="87 - Fig" number="E87" type="id"/>
+        <item color="#5a4939" name="89 - - Sketch Pecan" number="E89" type="id"/>
+        <item color="#fed2b9" name="93 - Tea Rose" number="E93" type="id"/>
+        <item color="#fcbc7e" name="95 - Flesh Pink" number="E95" type="id"/>
+        <item color="#ed9c5d" name="97 - Deep Orange" number="E97" type="id"/>
+        <item color="#b46034" name="99 - Baked Clay" number="E99" type="id"/>
+        <item color="#058fd0" name="2 - Fluorescent Dull Blue" number="FB2" type="id"/>
+        <item color="#62cbe8" name="2 - Fluorescent Dull Blue Green" number="FBG2" type="id"/>
+        <item color="#f5a3c7" name="1 - Fluorescent Pink" number="FRV1" type="id"/>
+        <item color="#7f74b6" name="2 - Fluorescent Dull Violet" number="FV2" type="id"/>
+        <item color="#fff697" name="1 - Fluorescent Yellow Orange" number="FY1" type="id"/>
+        <item color="#9ecd43" name="1 - Fluorescent Yellow" number="FYG1" type="id"/>
+        <item color="#9ecd43" name="2 - Fluor Dull Yellow Green" number="FYG2" type="id"/>
+        <item color="#fecc99" name="1 - Fluorescent Orange" number="FYR1" type="id"/>
+        <item color="#f1f7f3" name="0000 - Crystal Opal" number="G0000" type="id"/>
+        <item color="#eaf5ed" name="000 - Pale Green" number="G000" type="id"/>
+        <item color="#e3f2ed" name="00 - Jade Green" number="G00" type="id"/>
+        <item color="#cfe8d3" name="02 - Spectrum Green" number="G02" type="id"/>
+        <item color="#b6da9c" name="03 - Meadow Green" number="G03" type="id"/>
+        <item color="#69c07b" name="05 - Emerald Green" number="G05" type="id"/>
+        <item color="#7bc576" name="07 - Nile Green" number="G07" type="id"/>
+        <item color="#7ac465" name="09 - Veronese Green" number="G09" type="id"/>
+        <item color="#d2e8c4" name="12 - Sea Green" number="G12" type="id"/>
+        <item color="#97cf90" name="14 - Apple Green" number="G14" type="id"/>
+        <item color="#60c198" name="16 - Malachite" number="G16" type="id"/>
+        <item color="#14b37d" name="17 - Forest Green" number="G17" type="id"/>
+        <item color="#2db98a" name="19 - Bright Parrot Green" number="G19" type="id"/>
+        <item color="#edf6db" name="20 - Wax White" number="G20" type="id"/>
+        <item color="#c4e4cd" name="21 - Lime Green" number="G21" type="id"/>
+        <item color="#c3e0b4" name="24 - Willow" number="G24" type="id"/>
+        <item color="#119462" name="28 - Ocean Green" number="G28" type="id"/>
+        <item color="#197c5d" name="29 - Pine Tree Green" number="G29" type="id"/>
+        <item color="#e4f1df" name="40 - Dim Green" number="G40" type="id"/>
+        <item color="#d7e7a8" name="43 - Various Pistachio" number="G43" type="id"/>
+        <item color="#579e74" name="46 - Sketch Mistletoe" number="G46" type="id"/>
+        <item color="#ccdab9" name="82 - Spring Dim Green" number="G82" type="id"/>
+        <item color="#9dc3aa" name="85 - Verdigris" number="G85" type="id"/>
+        <item color="#98a786" name="94 - Grayish Olive" number="G94" type="id"/>
+        <item color="#5f7e3a" name="99 - Olive" number="G99" type="id"/>
+        <item color="#eceeed" name="0 - Neutral Gray" number="N0" type="id"/>
+        <item color="#312f30" name="10 - Neutral Gray" number="N10" type="id"/>
+        <item color="#e2e3e5" name="1 - Neutral Gray" number="N1" type="id"/>
+        <item color="#dadbdd" name="2 - Neutral Gray" number="N2" type="id"/>
+        <item color="#d1d2d4" name="3 - Neutral Gray" number="N3" type="id"/>
+        <item color="#bcbdc1" name="4 - Neutral Gray" number="N4" type="id"/>
+        <item color="#a8a9ad" name="5 - Neutral Gray" number="N5" type="id"/>
+        <item color="#949599" name="6 - Neutral Gray" number="N6" type="id"/>
+        <item color="#77787c" name="7 - Neutral Gray" number="N7" type="id"/>
+        <item color="#636466" name="8 - Neutral Gray" number="N8" type="id"/>
+        <item color="#4c4d4f" name="9 - Neutral Gray" number="N9" type="id"/>
+        <item color="#fef3ef" name="0000 - Pink Beryl" number="R0000" type="id"/>
+        <item color="#fef0e7" name="000 - Cherry White" number="R000" type="id"/>
+        <item color="#feeae1" name="00 - Pinkish White" number="R00" type="id"/>
+        <item color="#fde0d8" name="01 - Pinkish Vanilla" number="R01" type="id"/>
+        <item color="#fdd3c7" name="02 - Flesh" number="R02" type="id"/>
+        <item color="#f6927b" name="05 - Salmon Red" number="R05" type="id"/>
+        <item color="#f26754" name="08 - Vermilion" number="R08" type="id"/>
+        <item color="#fde1d5" name="11 - Pale Cherry Pink" number="R11" type="id"/>
+        <item color="#fcd3c1" name="12 - Light Tea Rose" number="R12" type="id"/>
+        <item color="#f59b92" name="14 - Light Rouge" number="R14" type="id"/>
+        <item color="#f4846c" name="17 - Lipstick Orange" number="R17" type="id"/>
+        <item color="#fcd7cf" name="20 - Blush" number="R20" type="id"/>
+        <item color="#fac1b6" name="21 - Sardonyx" number="R21" type="id"/>
+        <item color="#f8b7b1" name="22 - Light Prawn" number="R22" type="id"/>
+        <item color="#f27579" name="24 - Prawn" number="R24" type="id"/>
+        <item color="#f15062" name="27 - Cadmium Red" number="R27" type="id"/>
+        <item color="#ed174b" name="29 - Lipstick Red" number="R29" type="id"/>
+        <item color="#fce3df" name="30 - Pale Yellowish Pink" number="R30" type="id"/>
+        <item color="#fac1ba" name="32 - Peach" number="R32" type="id"/>
+        <item color="#f27185" name="35 - Coral" number="R35" type="id"/>
+        <item color="#e86c74" name="37 - Carmine" number="R37" type="id"/>
+        <item color="#cb487a" name="39 - Garnet" number="R39" type="id"/>
+        <item color="#ee848e" name="43 - Bougainvillaea" number="R43" type="id"/>
+        <item color="#e04d69" name="46 - Strong Red" number="R46" type="id"/>
+        <item color="#d27c95" name="56 - Currant" number="R56" type="id"/>
+        <item color="#b74f70" name="59 - Cardinal" number="R59" type="id"/>
+        <item color="#f1c8d6" name="81 - Rose Pink" number="R81" type="id"/>
+        <item color="#f19cb9" name="83 - Rose Mist" number="R83" type="id"/>
+        <item color="#d36a93" name="85 - Rose Red" number="R85" type="id"/>
+        <item color="#7d2b42" name="89 - Dark Red" number="R89" type="id"/>
+        <item color="#f2eaf5" name="0000 - Evening Primrose" number="RV0000" type="id"/>
+        <item color="#f4e2ee" name="000 - Pale Purple" number="RV000" type="id"/>
+        <item color="#f1daea" name="00 - Water Lily" number="RV00" type="id"/>
+        <item color="#fad5e6" name="02 - Sugared Almond Pink" number="RV02" type="id"/>
+        <item color="#f6a3bf" name="04 - ShockPink" number="RV04" type="id"/>
+        <item color="#f386af" name="06 - Cerise" number="RV06" type="id"/>
+        <item color="#e171ac" name="09 - Fuchsia" number="RV09" type="id"/>
+        <item color="#fdecf4" name="10 - Pale Pink" number="RV10" type="id"/>
+        <item color="#fbd6dd" name="11 - Pink" number="RV11" type="id"/>
+        <item color="#f9c9d7" name="13 - Tender Pink" number="RV13" type="id"/>
+        <item color="#f495b7" name="14 - Begonia Pink" number="RV14" type="id"/>
+        <item color="#db7eb3" name="17 - Deep Magenta" number="RV17" type="id"/>
+        <item color="#d268aa" name="19 - Red Violet" number="RV19" type="id"/>
+        <item color="#fde8e7" name="21 - Light Pink" number="RV21" type="id"/>
+        <item color="#f8bac9" name="23 - Pure Pink" number="RV23" type="id"/>
+        <item color="#f493be" name="25 - Dog Rose Flower" number="RV25" type="id"/>
+        <item color="#ef4880" name="29 - Crimson" number="RV29" type="id"/>
+        <item color="#fad3ce" name="32 - Shadow Pink" number="RV32" type="id"/>
+        <item color="#f9afae" name="34 - Dark Pink" number="RV34" type="id"/>
+        <item color="#f8bbb6" name="42 - Salmon Pink" number="RV42" type="id"/>
+        <item color="#f9cade" name="52 - Various Cotton Candy" number="RV52" type="id"/>
+        <item color="#e9a5ca" name="55 - Hollyhock" number="RV55" type="id"/>
+        <item color="#d09dae" name="63 - Begonia" number="RV63" type="id"/>
+        <item color="#b86a84" name="66 - Raspberry" number="RV66" type="id"/>
+        <item color="#8b576e" name="69 - Peony" number="RV69" type="id"/>
+        <item color="#e6d4e2" name="91 - Garyish Cherry" number="RV91" type="id"/>
+        <item color="#e7b6cc" name="93 - Smokey Purple" number="RV93" type="id"/>
+        <item color="#b684a1" name="95 - Baby Blossoms" number="RV95" type="id"/>
+        <item color="#5a4858" name="99 - Argyle Purple" number="RV99" type="id"/>
+        <item color="#eceeed" name="0 - Toner Gray" number="T0" type="id"/>
+        <item color="#322e2d" name="10 - Toner Gray" number="T10" type="id"/>
+        <item color="#eaeae8" name="1 - Toner Gray" number="T1" type="id"/>
+        <item color="#e0e0de" name="2 - Toner Gray" number="T2" type="id"/>
+        <item color="#d1d2cc" name="3 - Toner Gray" number="T3" type="id"/>
+        <item color="#bcbbb9" name="4 - Toner Gray" number="T4" type="id"/>
+        <item color="#a8a7a3" name="5 - Toner Gray" number="T5" type="id"/>
+        <item color="#949590" name="6 - Toner Gray" number="T6" type="id"/>
+        <item color="#777674" name="7 - Toner Gray" number="T7" type="id"/>
+        <item color="#63645f" name="8 - Toner Gray" number="T8" type="id"/>
+        <item color="#4c4b49" name="9 - Toner Gray" number="T9" type="id"/>
+        <item color="#f0edf6" name="0000 - Rose Quartz" number="V0000" type="id"/>
+        <item color="#e9e5f3" name="000 - Pale Heath" number="V000" type="id"/>
+        <item color="#e4c1d9" name="01 - Heath" number="V01" type="id"/>
+        <item color="#e6aace" name="04 - Lilac" number="V04" type="id"/>
+        <item color="#e2a6ca" name="05 - Marigold" number="V05" type="id"/>
+        <item color="#ce95c2" name="06 - Lavender" number="V06" type="id"/>
+        <item color="#8754a1" name="09 - Violet" number="V09" type="id"/>
+        <item color="#eed7e9" name="12 - Pale Lilac" number="V12" type="id"/>
+        <item color="#d3a6cd" name="15 - Mallow" number="V15" type="id"/>
+        <item color="#a092c7" name="17 - Amethyst" number="V17" type="id"/>
+        <item color="#e2e0ed" name="20 - Wisteria" number="V20" type="id"/>
+        <item color="#b2b1d0" name="22 - Sketch Ash Lavender" number="V22" type="id"/>
+        <item color="#857fad" name="25 - Pale Blackberry" number="V25" type="id"/>
+        <item color="#6b668e" name="28 - Sketch Eggplant" number="V28" type="id"/>
+        <item color="#e8c4d0" name="91 - Pale Grape" number="V91" type="id"/>
+        <item color="#e5c1db" name="93 - Early Grape" number="V93" type="id"/>
+        <item color="#b77ca8" name="95 - Light Grape" number="V95" type="id"/>
+        <item color="#524358" name="99 - Aubergine" number="V99" type="id"/>
+        <item color="#f3f3eb" name="00 - Warm Gray" number="W00" type="id"/>
+        <item color="#ecece4" name="0 - Warm Gray" number="W0" type="id"/>
+        <item color="#302f2b" name="10 - Warm Gray" number="W10" type="id"/>
+        <item color="#e7e7df" name="1 - Warm Gray No. 1" number="W1" type="id"/>
+        <item color="#ddddd5" name="2 - Warm Gray" number="W2" type="id"/>
+        <item color="#d2d2ca" name="3 - Warm Gray No. 3" number="W3" type="id"/>
+        <item color="#bcbdb7" name="4 - Warm Gray" number="W4" type="id"/>
+        <item color="#a8a9a4" name="5 - Warm Gray No. 5" number="W5" type="id"/>
+        <item color="#94958f" name="6 - Warm Gray" number="W6" type="id"/>
+        <item color="#777873" name="7 - Warm Gray No. 7" number="W7" type="id"/>
+        <item color="#63645f" name="8 - Warm Gray" number="W8" type="id"/>
+        <item color="#4c4d48" name="9 - Warm Gray" number="W9" type="id"/>
+        <item color="#fefef4" name="0000 - Yellow Fluorite" number="Y0000" type="id"/>
+        <item color="#fffce9" name="000 - Pale Lemon" number="Y000" type="id"/>
+        <item color="#fefddf" name="00 - Barium Yellow" number="Y00" type="id"/>
+        <item color="#f6f396" name="02 - Canary Yellow" number="Y02" type="id"/>
+        <item color="#ede556" name="04 - Acacia" number="Y04" type="id"/>
+        <item color="#fef56c" name="06 - Yellow" number="Y06" type="id"/>
+        <item color="#fef200" name="08 - Acid Yellow" number="Y08" type="id"/>
+        <item color="#fffbcc" name="11 - Pale Yellow" number="Y11" type="id"/>
+        <item color="#fbf7ae" name="13 - Lemon Yellow" number="Y13" type="id"/>
+        <item color="#fee96c" name="15 - Cadmium Yellow" number="Y15" type="id"/>
+        <item color="#ffe455" name="17 - Golden Yellow" number="Y17" type="id"/>
+        <item color="#feed55" name="18 - Lightning Yellow" number="Y18" type="id"/>
+        <item color="#ffe93e" name="19 - Napoli Yellow" number="Y19" type="id"/>
+        <item color="#ffeec2" name="21 - Buttercup Yellow" number="Y21" type="id"/>
+        <item color="#fbe3b3" name="23 - Yellowish Beige" number="Y23" type="id"/>
+        <item color="#f0dd67" name="26 - Mustard" number="Y26" type="id"/>
+        <item color="#caa869" name="28 - Lionet Gold" number="Y28" type="id"/>
+        <item color="#f9dec0" name="32 - Cashmere" number="Y32" type="id"/>
+        <item color="#ffd879" name="35 - Maize" number="Y35" type="id"/>
+        <item color="#ffd374" name="38 - Honey" number="Y38" type="id"/>
+        <item color="#f2f7e0" name="0000 - Lily White" number="YG0000" type="id"/>
+        <item color="#e6e69e" name="00 - Mimosa Yellow" number="YG00" type="id"/>
+        <item color="#e2ebb2" name="01 - Green Bice" number="YG01" type="id"/>
+        <item color="#deeaaa" name="03 - Yellow Green" number="YG03" type="id"/>
+        <item color="#d6e592" name="05 - Salad" number="YG05" type="id"/>
+        <item color="#c4df92" name="06 - Yellowish Green" number="YG06" type="id"/>
+        <item color="#a5cf4f" name="07 - Acid Green" number="YG07" type="id"/>
+        <item color="#82c566" name="09 - Lettuce Green" number="YG09" type="id"/>
+        <item color="#e5f0d0" name="11 - Mignonette" number="YG11" type="id"/>
+        <item color="#d4e59f" name="13 - Chartreuse" number="YG13" type="id"/>
+        <item color="#72c156" name="17 - Grass Green" number="YG17" type="id"/>
+        <item color="#f7f6be" name="21 - Anise" number="YG21" type="id"/>
+        <item color="#e6eb8f" name="23 - New Leaf" number="YG23" type="id"/>
+        <item color="#d0e17b" name="25 - Celadon Green" number="YG25" type="id"/>
+        <item color="#d5ebd4" name="41 - Pale Cobalt Green" number="YG41" type="id"/>
+        <item color="#b4dcb7" name="45 - Cobalt Green" number="YG45" type="id"/>
+        <item color="#d6e9d6" name="61 - Pale Moss" number="YG61" type="id"/>
+        <item color="#a0caa2" name="63 - Pea Green" number="YG63" type="id"/>
+        <item color="#81bf8c" name="67 - Moss" number="YG67" type="id"/>
+        <item color="#dad7ae" name="91 - Putty" number="YG91" type="id"/>
+        <item color="#d2d29c" name="93 - Grayish Yellow" number="YG93" type="id"/>
+        <item color="#cbc65e" name="95 - Pale Olive" number="YG95" type="id"/>
+        <item color="#958f03" name="97 - Spanish Olive" number="YG97" type="id"/>
+        <item color="#4e6a15" name="99 - Marine Green" number="YG99" type="id"/>
+        <item color="#fff3e5" name="0000 - Pale Chiffon" number="YR0000" type="id"/>
+        <item color="#feecd8" name="000 - Silk" number="YR000" type="id"/>
+        <item color="#fed6bd" name="00 - Powder Pink" number="YR00" type="id"/>
+        <item color="#fedac2" name="01 - Peach Puff" number="YR01" type="id"/>
+        <item color="#fcdcc5" name="02 - Light Orange" number="YR02" type="id"/>
+        <item color="#fec369" name="04 - Chrome Orange" number="YR04" type="id"/>
+        <item color="#f26f39" name="07 - Cadmium Orange" number="YR07" type="id"/>
+        <item color="#f15524" name="09 - Chinese Orange" number="YR09" type="id"/>
+        <item color="#ffe2a6" name="12 - Loquat" number="YR12" type="id"/>
+        <item color="#fec84e" name="14 - Caramel" number="YR14" type="id"/>
+        <item color="#fbb884" name="15 - Pumpkin Yellow" number="YR15" type="id"/>
+        <item color="#feb729" name="16 - Apricot" number="YR16" type="id"/>
+        <item color="#f26b3c" name="18 - Sanguine" number="YR18" type="id"/>
+        <item color="#ffe1bf" name="20 - Yellowish Shade" number="YR20" type="id"/>
+        <item color="#f5ddb1" name="21 - Cream" number="YR21" type="id"/>
+        <item color="#eccf8b" name="23 - Yellow Ochre" number="YR23" type="id"/>
+        <item color="#f0cf64" name="24 - Pale Sepia" number="YR24" type="id"/>
+        <item color="#d56638" name="27 - Tuscan Orange" number="YR27" type="id"/>
+        <item color="#fef2da" name="30 - Macadamia Nut" number="YR30" type="id"/>
+        <item color="#ffdea8" name="31 - Light Reddish Yellow" number="YR31" type="id"/>
+        <item color="#fddac4" name="61 - Yellowish Skin Pink" number="YR61" type="id"/>
+        <item color="#faae60" name="65 - Atoll" number="YR65" type="id"/>
+        <item color="#f37022" name="68 - Orange" number="YR68" type="id"/>
+        <item color="#fdc68d" name="82 - Mellow Peach" number="YR82" type="id"/>
+    </array></file></source><source path="C:\Users\Cris\AndroidStudioProjects\CMC\app\build\generated\res\rs\debug"/><source path="C:\Users\Cris\AndroidStudioProjects\CMC\app\build\generated\res\generated\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\Cris\AndroidStudioProjects\CMC\app\src\debug\res"/></dataSet><mergedItems/></merger>
